@@ -476,7 +476,7 @@ def draw_grid():
         # Continue if initial pattern on screen has been drawn  
         if draw_initial_pattern == False:
             
-            # Survival
+            # Reproduction
             # Mark cell as active for next iteration
             if active_neighbour_count == 3 and cell_status_list[cell] == 0:
                 color = GREEN
@@ -488,7 +488,7 @@ def draw_grid():
                 color = GREY
                 cell_status_list[cell] = 3
   
-            # Reproduction
+            # Survival
             # Mark cell as active for next iteration
             elif active_neighbour_count >= 2 and active_neighbour_count <= 3 and cell_status_list[cell] == 1:
                 color = GREEN
