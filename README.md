@@ -1,6 +1,8 @@
 # Game-of-Life
 ## A Python implementation of John Conway's classic cellular automaton Game of Life
 
+This code implements game of life with variable start patterns and update speed.
+
 ### Dependencies (pip install)
 ```
 pygame
