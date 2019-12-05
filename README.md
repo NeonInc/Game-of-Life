@@ -31,3 +31,11 @@ The Main Menu allows the players to navigate to Play Menu and the Help and About
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Main_Menu.png">
 </p>
+
+#### Play Menu
+
+In the Play Menu, players can change start pattern and the game update speed. Start patters that can be chosen are 'Glider', 
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Play_Menu.png">
+</p>
