@@ -39,3 +39,17 @@ In the Play Menu, players can change start pattern and the game update delay. St
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Play_Menu.png">
 </p>
+
+#### In-Game Screenshot
+
+Pulsar
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Pulsar.png">
+</p>
+
+Gosper Glider Gun
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Glider_Gun.png">
+</p>
