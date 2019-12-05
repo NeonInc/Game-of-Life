@@ -34,8 +34,7 @@ The Main Menu allows the players to navigate to Play Menu and the Help and About
 
 #### Play Menu
 
-In the Play Menu, players can change start pattern and the game update speed. Start patters that can be chosen are 'Glider', 'Beacon', ,
-'Toad','Blinker', 'Tetromino', 'Pulsar', 'Light Weight Spaceship', 'Copperhead Spaceship', 'Weekender', 'Gosper Glider Gun' and 'Random'.
+In the Play Menu, players can change start pattern and the game update delay. Start patterns that can be chosen are 'Glider', 'Beacon', 'Toad','Blinker', 'Tetromino', 'Pulsar', 'Light Weight Spaceship', 'Copperhead Spaceship', 'Weekender', 'Gosper Glider Gun' and 'Random'. The game update delay is given in ms with smaller values causing the game to update faster. 
 
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Play_Menu.png">
