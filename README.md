@@ -25,3 +25,9 @@ python3 game_of_life.py
 ```
 
 #### Main Menu
+
+The Main Menu allows the players to navigate to Play Menu and the Help and About Menus. The Help Menu details the game controls while About Menu lists game information.
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Main_Menu.png">
+</p>
